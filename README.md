@@ -1,6 +1,8 @@
 # SLICA
 Spectral Line Image Cubes in Astronomy
 
+A set of example and tutorials to work with spectral line image cubes
+
 ## Single Spectrum
 An example of a single spectrum, from an ASCII table. Plot it.
 
