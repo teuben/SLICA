@@ -1,7 +1,7 @@
 # SLICA
 Spectral Line Image Cubes in Astronomy
 
-A set of example and tutorials to work with spectral line image cubes
+A set of example and tutorials to work with spectral line image cubes, using python and python notebooks.
 
 ## Single Spectrum
 An example of a single spectrum, from an ASCII table. Just reading and plot it, not much else going on. There is also a FITS version of the same table. Data are courtesy Roger Wesson.
