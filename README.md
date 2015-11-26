@@ -13,3 +13,6 @@ Using only astropy to read a **FITS** image cube, we grab a copy of the image cu
 Using both astropy and some related modules that know about astronomical coordinates and a module that knows about data cubes, we repeat the previous case of NGC 6503 in this new framework.
 
 ![Example CubeView for N6503](data/n6503-glnemo2.png "just an example cube")
+
+## Orbits
+An example how to set up a particle disk and observe a PV diagram or a velocity field.
