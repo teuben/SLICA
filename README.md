@@ -1,7 +1,7 @@
 # SLICA
 Spectral Line Image Cubes in Astronomy
 
-A set of examples and tutorials to work with spectral line image cubes, using python and ipython notebooks
+A set of examples and tutorials to work with spectral line image cubes, using python and ipython notebooks. You should be able to find these at https://github.com/teuben/SLICA
 
 ## NGC 6503 Optical
 An introduction to the galaxy, from the optical perspective. 
@@ -19,3 +19,4 @@ Using both astropy and some related modules that know about astronomical coordin
 
 ## Orbits
 An example how to set up a particle disk and observe a PV diagram or a velocity field. Great to see what you would expect in the radio data.
+
