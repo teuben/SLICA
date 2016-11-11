@@ -1,7 +1,7 @@
 # SLICA
 Spectral Line Image Cubes in Astronomy
 
-A set of examples and tutorials to work with spectral line image cubes, using python and ipython notebooks. You should be able to find these at https://github.com/teuben/SLICA
+A set of examples and tutorials to work with spectral line image cubes, using python and ipython notebooks. You should be able to find these at https://github.com/teuben/SLICA. Some of this material can also be found in https://github.com/teuben/astr288p.
 
 ## NGC 6503 Optical
 An introduction to the galaxy, from the optical perspective. 
