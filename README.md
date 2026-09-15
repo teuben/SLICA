@@ -20,3 +20,6 @@ Using both astropy and some related modules that know about astronomical coordin
 ## Orbits
 An example how to set up a particle disk and observe a PV diagram or a velocity field. Great to see what you would expect in the radio data.
 
+## References
+
+* https://ui.adsabs.harvard.edu/abs/2009AJ....137.4718G - Greisen et al. 2009
